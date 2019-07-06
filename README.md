@@ -1,4 +1,4 @@
-# kmeans_clustering
+# Kmeans_clustering
 Realize Kmeans Clustering using R
 
 ## Kmeans Clustering Tutorial
